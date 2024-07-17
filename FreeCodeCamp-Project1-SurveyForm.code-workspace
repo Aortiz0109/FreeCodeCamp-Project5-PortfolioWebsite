@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../project1_surveyform/FreeCodeCamp-Project1-SurveyForm"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project5_portfoliopage",
+		"liveServer.settings.port": 5501
+	}
+}
